@@ -973,12 +973,23 @@ with tab_data:
         f"Showing {len(filtered_df):,} filtered records."
     )
 
+    csv_data = filtered_df.to_csv(
+        index=False
+    ).encode("utf-8")
+
+    st.download_button(
+        label="⬇️ Download Dataset",
+        data=csv_data,
+        file_name="LastMile_IQ_Filtered_Dataset.csv",
+        mime="text/csv",
+        use_container_width=False
+    )
+
     st.dataframe(
         filtered_df,
         use_container_width=True,
         height=600
     )
-
 st.divider()
 
 st.caption(
