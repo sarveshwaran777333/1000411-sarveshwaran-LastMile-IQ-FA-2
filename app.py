@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(
-    page_title="🚚 LastMile IQ",
+    page_title="LastMile IQ",
     page_icon="🚚",
     layout="wide",
     initial_sidebar_state="expanded"
