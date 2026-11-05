@@ -554,6 +554,10 @@ Application Framework: Streamlit
 
 Dataset: Last mile Delivery Data.csv
 
+Testing:
+
+To validate usability and overall user experience, the Streamlit dashboard underwent peer testing with classmates who evaluated its navigation, filtering options, and chart clarity. Based on their feedback regarding initial rendering delays with large dataset sizes, a sample-size selector was added to the sidebar to optimize app loading speed and responsiveness. Additionally, visual labels and chart tooltips were refined to make metric interpretations more intuitive for operational decision-makers.
+
 📌 Conclusion
 
 LastMile IQ demonstrates how Python-based data analytics can be used to analyze last-mile delivery performance.
@@ -566,5 +570,10 @@ The interactive filtering system allows users to investigate specific parts of t
 
 Overall, LastMile IQ demonstrates how raw delivery data can be transformed into a useful and interactive data analytics solution using Python, Pandas, Plotly, and Streamlit.
 
+Credits:
 
-**Important:** Save it exactly as **`README.md`** in the same GitHub repository as `app.py`, `requirements.txt`, and `Last mile Del
+Name: Sarveshwaran.K
+No: 1000411
+School Name: Jain Vidyalaya IB World School
+Mentor's Name: Syed Ali Beema
+
