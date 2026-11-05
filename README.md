@@ -572,8 +572,10 @@ Overall, LastMile IQ demonstrates how raw delivery data can be transformed into 
 
 Credits:
 
-Name: Sarveshwaran.K
-No: 1000411
-School Name: Jain Vidyalaya IB World School
-Mentor's Name: Syed Ali Beema
+Name: Sarveshwaran K
 
+No: 1000411
+
+School Name: Jain Vidyalaya IB World School
+
+Mentor's Name: Syed Ali Beema
