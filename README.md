@@ -532,6 +532,10 @@ GitHub Repository:
 
 https://github.com/sarveshwaran777333/1000411-sarveshwaran-LastMile-IQ
 
+Live Demo:
+
+https://1000411-sarveshwaran-lastmile-iq-y22swa5xalaamewoefsdqg.streamlit.app/
+
 👨‍💻 Project Information
 
 Project: LastMile IQ
